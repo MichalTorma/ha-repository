@@ -1,0 +1,3 @@
+[submodule "hass-n8n"]
+	path = hass-n8n
+	url = https://github.com/MichalTorma/hass-n8n
