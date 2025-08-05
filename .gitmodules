@@ -1,9 +1,3 @@
-[submodule "haas-n8n"]
-	path = haas-n8n
-	url = https://github.com/MichalTorma/hass-n8n
-[submodule "ha-mattermost"]
-	path = ha-mattermost
-	url = https://github.com/MichalTorma/ha-mattermost
 [submodule "hass-nec-control"]
 	path = hass-nec-control
 	url = https://github.com/MichalTorma/hass-nec-control.git
