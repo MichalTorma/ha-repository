@@ -1,0 +1,34 @@
+extends: default
+
+rules:
+  # 80 chars should be enough, but don't fail if a line is longer
+  line-length: disable
+  
+  # Allow both `on` and `On` in boolean values
+  truthy:
+    check-keys: false
+  
+  # Allow comments
+  comments-indentation: disable
+  
+  # Allow empty values
+  empty-lines:
+    max: 1
+    max-end: 0
+  
+  # Allow trailing spaces
+  trailing-spaces: disable
+  
+  # Allow different indentation styles
+  indentation:
+    spaces: 2
+    indent-sequences: true
+  
+  # Allow different quote styles
+  quotes:
+    quote-type: any
+  
+  # Allow different bracket styles
+  brackets:
+    min-spaces-inside: 0
+    max-spaces-inside: 1 
