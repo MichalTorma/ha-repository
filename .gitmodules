@@ -1,3 +1,6 @@
 [submodule "hass-nec-control"]
 	path = hass-nec-control
 	url = https://github.com/MichalTorma/hass-nec-control.git
+[submodule "ha-mattermost"]
+	path = ha-mattermost
+	url = https://github.com/MichalTorma/ha-mattermost
