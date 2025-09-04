@@ -13,6 +13,17 @@ Control your NEC TV via network commands. Turn your TV on and off remotely throu
 - REST API for Home Assistant integration
 - Automatic device discovery
 
+### [Mattermost Server](ha-mattermost/)
+Self-hosted team communication platform built for Home Assistant. An open-source alternative to Slack and Microsoft Teams.
+
+**Features:**
+- Multi-architecture support (aarch64, amd64, armhf, armv7, i386)
+- PostgreSQL and MySQL database support
+- Email notifications via SMTP
+- Secure team communication and file sharing
+- Built from source for optimal compatibility
+- Comprehensive configuration options
+
 ## 🚀 Installation
 
 ### Adding this repository
@@ -42,6 +53,7 @@ Control your NEC TV via network commands. Turn your TV on and off remotely throu
 Each add-on has its own configuration options. Please refer to the individual add-on documentation:
 
 - [NEC TV Control Configuration](hass-nec-control/README.md)
+- [Mattermost Server Configuration](ha-mattermost/README.md)
 
 ## 🐛 Troubleshooting
 
