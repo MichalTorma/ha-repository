@@ -4,3 +4,6 @@
 [submodule "ha-mattermost"]
 	path = ha-mattermost
 	url = https://github.com/MichalTorma/ha-mattermost
+[submodule "ha-synapse"]
+	path = ha-synapse
+	url = https://github.com/MichalTorma/ha-synapse.git
