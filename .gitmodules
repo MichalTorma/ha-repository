@@ -7,3 +7,6 @@
 [submodule "ha-synapse"]
 	path = ha-synapse
 	url = https://github.com/MichalTorma/ha-synapse.git
+[submodule "ha-coturn"]
+	path = ha-coturn
+	url = https://github.com/MichalTorma/ha-coturn.git
