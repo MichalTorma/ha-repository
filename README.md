@@ -24,6 +24,29 @@ Self-hosted team communication platform built for Home Assistant. An open-source
 - Built from source for optimal compatibility
 - Comprehensive configuration options
 
+### [Synapse Matrix Server](ha-synapse/)
+Self-hosted Matrix homeserver for secure, decentralized communication. An open-source alternative to centralized chat platforms.
+
+**Features:**
+- Multi-architecture support (aarch64, amd64, armhf, armv7, i386)
+- PostgreSQL database support
+- Federation with other Matrix servers
+- End-to-end encryption support
+- User management with registration tokens
+- Comprehensive configuration options
+
+### [Coturn TURN/STUN Server](ha-coturn/)
+TURN/STUN server for WebRTC and VoIP NAT traversal. Essential for peer-to-peer communication behind firewalls.
+
+**Features:**
+- Multi-architecture support (aarch64, amd64, armhf, armv7, i386)
+- Static auth secret and username/password authentication
+- TLS/DTLS support with SSL certificates
+- Configurable port ranges for media relay
+- IP filtering and security features
+- WebRTC compatibility
+- Comprehensive logging and debugging
+
 ## 🚀 Installation
 
 ### Adding this repository
@@ -54,6 +77,8 @@ Each add-on has its own configuration options. Please refer to the individual ad
 
 - [NEC TV Control Configuration](hass-nec-control/README.md)
 - [Mattermost Server Configuration](ha-mattermost/README.md)
+- [Synapse Matrix Server Configuration](ha-synapse/README.md)
+- [Coturn TURN/STUN Server Configuration](ha-coturn/README.md)
 
 ## 🐛 Troubleshooting
 
