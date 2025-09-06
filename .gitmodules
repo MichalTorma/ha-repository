@@ -10,3 +10,6 @@
 [submodule "ha-coturn"]
 	path = ha-coturn
 	url = https://github.com/MichalTorma/ha-coturn.git
+[submodule "ha-livekit"]
+	path = ha-livekit
+	url = https://github.com/MichalTorma/ha-livekit.git
