@@ -15,4 +15,4 @@
 	url = https://github.com/MichalTorma/ha-livekit.git
 [submodule "ha-endurian"]
 	path = ha-endurian
-	url = https://github.com/MichalTorma/ha-endurian.git
+	url = https://github.com/MichalTorma/ha-endurain.git
