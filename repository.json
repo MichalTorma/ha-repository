@@ -3,5 +3,5 @@
   "url": "https://github.com/MichalTorma/ha-repository",
   "maintainer": "Michal Torma <miso.torma.dev@gmail.com>",
   "description": "A collection of Home Assistant add-ons for various home automation needs",
-  "version": "1.6.0"
+  "version": "1.7.0"
 }
