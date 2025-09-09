@@ -13,6 +13,6 @@
 [submodule "ha-livekit"]
 	path = ha-livekit
 	url = https://github.com/MichalTorma/ha-livekit.git
-[submodule "ha-endurian"]
-	path = ha-endurian
+[submodule "ha-endurain"]
+	path = ha-endurain
 	url = https://github.com/MichalTorma/ha-endurain.git
