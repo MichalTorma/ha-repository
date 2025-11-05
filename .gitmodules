@@ -16,3 +16,6 @@
 [submodule "ha-endurain"]
 	path = ha-endurain
 	url = https://github.com/MichalTorma/ha-endurain.git
+[submodule "ha-kiwix"]
+	path = ha-kiwix
+	url = https://github.com/MichalTorma/ha-kiwix.git
