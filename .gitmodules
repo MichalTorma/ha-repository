@@ -19,3 +19,6 @@
 [submodule "ha-kiwix"]
 	path = ha-kiwix
 	url = https://github.com/MichalTorma/ha-kiwix.git
+[submodule "ha-retroassembly"]
+	path = ha-retroassembly
+	url = https://github.com/MichalTorma/ha-retroassembly.git
